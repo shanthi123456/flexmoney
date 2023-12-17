@@ -13,7 +13,7 @@ This application allows users to enroll in monthly yoga classes. The frontend is
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/yoga-class-admission-form.git
+   git clone https://github.com/shanthi123456/flexmoney.git
    Navigate to the project directory:
 
 bash
